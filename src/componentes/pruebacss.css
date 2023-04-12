@@ -1,0 +1,35 @@
+  body{ color: white; 
+    padding: 20px;
+    background-color: rgb(224, 224, 228);
+    display: flex ;
+    flex-direction: column;
+    
+    align-items: center;
+    justify-content: space-between;
+} 
+
+ul{
+    
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(72, 63, 50);
+    list-style: none;
+    font-size: 25px;       
+    margin-right:80px;
+}
+li{
+ text-decoration:none;
+ margin-right:2rem;
+}
+
+mg{
+  display: flex;
+  align-items: center;
+  justify-items: center; 
+  width: 90px;
+  height: 90px;
+  margin: 5px;
+  box-shadow: 0 3px 13px 5px white
+  }
